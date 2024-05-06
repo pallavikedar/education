@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/education.git/static/css/main.aad4addb.css",
+    "main.js": "/education.git/static/js/main.08ce298b.js",
+    "static/media/back.webp": "/education.git/static/media/back.93d3f802b480eeabae07.webp",
+    "static/media/awrapper.webp": "/education.git/static/media/awrapper.031ce77a398171427673.webp",
+    "static/media/bg.webp": "/education.git/static/media/bg.baa1024a4ae092566a75.webp",
+    "index.html": "/education.git/index.html",
+    "main.aad4addb.css.map": "/education.git/static/css/main.aad4addb.css.map",
+    "main.08ce298b.js.map": "/education.git/static/js/main.08ce298b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aad4addb.css",
+    "static/js/main.08ce298b.js"
+  ]
+}
